@@ -1,0 +1,10 @@
+---
+title: "Creating graphs in R with ggplot2"
+author: "Lauren Hodge"
+date: "9/7/2021"
+output: html_document
+---
+
+# Plots with ggplot2
+
+We are making plots in R. 
